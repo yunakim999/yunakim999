@@ -8,4 +8,4 @@
 - 💌 Check out my blog : https://medium.com/@yunakim999
 
 ## 📊 Tableau Public
-<img width="859" alt="Screenshot 2024-09-10 at 8 40 59 PM" src="https://github.com/user-attachments/assets/673d6f92-7f5e-472b-b1db-afc8e8f818e7">
+<img width="856" alt="Screenshot 2024-09-10 at 8 42 35 PM" src="https://github.com/user-attachments/assets/24d8da56-2aa9-4d15-bbc7-2971803b5e67">
