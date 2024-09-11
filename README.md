@@ -4,4 +4,5 @@
 - 📊 Enjoy visualizing data (Tableau, PowerBI, Domo)
 - 👯 M.S. in Business Analytics @UC Davis
 - 📧 Reach me at : yunakimm9429@gmail.com
-- 🤝 Connect or find more about what I did on : https://www.linkedin.com/in/yunakimm/
+- 🤝 Connect or find more about my past experience : https://www.linkedin.com/in/yunakimm/
+- 💌 Check out my blog : https://medium.com/@yunakim999
