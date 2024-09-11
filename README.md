@@ -1,4 +1,4 @@
-<img width="859" alt="Screenshot 2024-09-10 at 8 40 59 PM" src="https://github.com/user-attachments/assets/3acece87-31e0-4ebb-ba9f-bcb3fe5e54b6">## Hi I'm Yuna👋 
+## Hi I'm Yuna👋 
 
 - 📈 Expert in data analysis, marketing analysis, statistical modeling
 - 📊 Enjoy visualizing data (Tableau, PowerBI, Domo)
