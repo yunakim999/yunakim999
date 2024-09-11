@@ -1,4 +1,4 @@
-## Hi I'm Yuna👋 
+<img width="859" alt="Screenshot 2024-09-10 at 8 40 59 PM" src="https://github.com/user-attachments/assets/3acece87-31e0-4ebb-ba9f-bcb3fe5e54b6">## Hi I'm Yuna👋 
 
 - 📈 Expert in data analysis, marketing analysis, statistical modeling
 - 📊 Enjoy visualizing data (Tableau, PowerBI, Domo)
@@ -8,5 +8,4 @@
 - 💌 Check out my blog : https://medium.com/@yunakim999
 
 ## 📊 Tableau Public
-<img width="887" alt="Screenshot 2024-09-10 at 8 31 25 PM" src="https://github.com/user-attachments/assets/ebd7adf9-229b-41b3-9248-a321d53b6ec9">
-
+<img width="859" alt="Screenshot 2024-09-10 at 8 40 59 PM" src="https://github.com/user-attachments/assets/673d6f92-7f5e-472b-b1db-afc8e8f818e7">
